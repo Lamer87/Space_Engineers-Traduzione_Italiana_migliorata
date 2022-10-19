@@ -26,12 +26,12 @@ se volete modificarne il contenuto voi stessi.
 
 Qualche esempio (default a sinistra, corretto da me a destra):  
 Ricicla la conferma dell'oggetto = Conferma il riciclo dell'oggetto  
-*dal blocco programmabile*: Corri = Esegui  
-*dal generatore di ossigeno*: Riempi bottiglie = Riempi bombole  
+*dal blocco programmabile* : Corri = Esegui  
+*dal generatore di ossigeno* : Riempi bottiglie = Riempi bombole  
 
 IMPORTANTE: se viene rilasciata una nuova major (quando introducono un nuovo DLC), NON applicate la traduzione attuale, altrimenti alcune nuove stringhe non saranno presenti, e verranno mostrate in inglese all'interno del gioco.  
 Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto (dove vedete "attualmente su base...").
 
-Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza.  
-
 La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  
+
+Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza.  

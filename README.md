@@ -14,11 +14,11 @@ se volete modificarne il contenuto voi stessi.
   - Scaricate l'archivio cliccando sul tasto verde "Code" e poi su "Download ZIP"  
 
   - Estraete la cartella **"Content"** nella cartella del gioco, sostituendo i file:  
-*archivio* -> SpaceEngineers/`Content`  
+*dall'archivio* -> SpaceEngineers/`Content`  
 *esempio cartella gioco* -> C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\ `Content`  
 
   - E' incluso un backup, nel caso vogliate ripristinare la traduzione di default, senza dover fare un recheck di tutti i file da Steam:  
-*archivio* -> Backup/`Content`  
+*dall'archivio* -> Backup/`Content`  
 
 ---
 

@@ -5,7 +5,8 @@
 
 -Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.  
 
--I file della lingua di Space Engineers possono essere aperti con un editor di testo, se volete modificarne il contenuto voi stessi.  
+-I file della lingua di Space Engineers possono essere aperti con un editor di testo,  
+se volete modificarne il contenuto voi stessi.  
 
 ---
 - ***Installazione***:  

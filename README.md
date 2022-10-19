@@ -1,0 +1,2 @@
+# Space_Engineers-Traduzione_Italiana_migliorata
+Miglioramento della traduzione italiana del gioco

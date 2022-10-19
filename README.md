@@ -7,10 +7,8 @@
 
 -Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.  
 
--I file della lingua di Space Engineers possono essere aperti con un editor di testo,  
-se volete modificarne il contenuto voi stessi.  
-
 ---
+
 - ***Installazione***:  
 
   - Scaricate l'archivio cliccando sul tasto verde "Code" e poi su "Download ZIP"  
@@ -35,3 +33,5 @@ Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la
 La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  
 
 Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza.  
+
+I file della lingua di Space Engineers possono essere aperti con un editor di testo, se volete potete modificarne il contenuto voi stessi.  

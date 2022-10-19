@@ -35,5 +35,3 @@ Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la
 Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza.  
 
 La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  
-
-Ovviamente verrà aggiornata per essere compatibile con le nuove major release.  

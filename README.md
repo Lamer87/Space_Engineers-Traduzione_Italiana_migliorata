@@ -34,4 +34,6 @@ La traduzione è in continua evoluzione, verrà aggiornata man mano che si trova
 
 Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza.  
 
-I file della lingua di Space Engineers possono essere aperti con un editor di testo, se volete potete modificarne il contenuto voi stessi.  
+I file della lingua di Space Engineers possono essere aperti con un editor di testo, se volete potete modificarne il contenuto voi stessi:
+*cartella* -> "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Data\Localization"
+sono 3 file in totale (uno per cartella), ma quello nella cartella CoreTexts non serve, traduce le linee riguardo ai crash del gioco.

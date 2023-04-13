@@ -1,13 +1,18 @@
 ## Space Engineers: Traduzione Italiana migliorata 🇮🇹
 ### Attualmente su base `1.202` Automatons 🤖
 
+Durante il lockdown, non avendo niente da fare, ho passato 2 settimane a tradurre l'intero gioco in italiano, perchè all'epoca erano tradotte giusto poche cose del menù e nient'latro.  
+Pubblicai la traduzione qui su github ma, poco tempo dopo e col successivo rilascio di un DLC, la traduzione italiana venne completata dai programmatori (avranno mica preso spunto?).  
+Da una parte fui contento visto che finalmente avevano preso in considerazione la community italiana, ma poi mi resi conto che non era proprio perfetta.
+
 ---
-- Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco,  
-  garantendone la stessa immersività della versione in inglese.  
+- Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco, garantendone la stessa immersività della versione in inglese.
 
-- Consiste in soli 2 file (su 3) relativi alla lingua italiana, non viene toccato nient'altro.  
+- Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.
 
-- Tutti i cambiamenti fatti fino ad ora sono stati fatti giocando alla 1.201 e pubblicati subito dopo l'uscita di Automatons, quindi per altre modifiche (soprattutto riguardanti eventuali svarioni di traduzione di quest'ultimo dlc) richiederanno tempo, ma voi potete sempre dare una mano!
+- Tutti i cambiamenti fatti fino ad ora sono stati fatti giocando alla 1.201 e pubblicati subito dopo l'uscita della 1.202 Automatons, quindi altre modifiche riguardanti eventuali svarioni di traduzione di quest'ultimo dlc richiederanno tempo, ma voi potete sempre dare una mano!
+
+- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
 
 ---
 >💾 [Click qui per il download](https://github.com/Lamer87/Space_Engineers_DLC_unlocker/archive/refs/heads/main.zip)
@@ -22,22 +27,22 @@
 *esempio cartella gioco* -> C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\  
 
   - E' incluso un backup, nel caso vogliate ripristinare la traduzione di default, senza dover fare un recheck di tutti i file da Steam:  
-*dall'archivio* -> Backup/`Content`  
-
+*dall'archivio* -> Backup/`Content` -> *cartella del gioco*  
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
 ---
 
 Giusto qualche esempio delle migliorie ("italiano" del gioco a sinistra - corretto da me a destra):  
 
-*dal menù skin* : Ricicla la conferma dell'oggetto = Conferma il riciclo dell'oggetto  
 *dal blocco programmabile* : Corri = Esegui  
 *dal generatore di ossigeno* : Riempi bottiglie = Riempi bombole  
+*dal menù skin* : Ricicla la conferma dell'oggetto = Conferma il riciclo dell'oggetto  
 
-Altre non sono delle migliorie, piuttosto degli aggiustamenti per far rientrare le parole nell'HUD o nella UI, per una migliore visibilità di tutto.
+Altre non sono delle migliorie, piuttosto degli aggiustamenti per far rientrare le parole nell'HUD o nella UI, per una migliore visibilità in tutti i contesti.
 
-<details><summary>Cliccate qui per la lista completa (solo migliorie, niente originale)</summary><p>
+<details><summary>Cliccate qui per la lista completa dei cambiamenti (senza confronto con l'originale)</summary><p>
 
 ```
-MyTexts.it (\SpaceEngineers\Content\Data\Localization)
+MyTexts.it.resx (\SpaceEngineers\Content\Data\Localization)
 
 
   <data name="AGravity" xml:space="preserve">
@@ -244,7 +249,7 @@ Puoi usare /F per chattare solo con la tua fazione oppure /G per globale.</value
 
 
 
-MyCommonTexts.it (\SpaceEngineers\Content\Data\Localization\Common)
+MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
 
   <data name="MessageBoxTextAreYouSureYouWantToDeleteSave" xml:space="preserve">
     <value>Sei sicuro do voler eliminare "{0}"?</value>
@@ -267,22 +272,35 @@ MyCommonTexts.it (\SpaceEngineers\Content\Data\Localization\Common)
   <data name="IronSightSwitch" xml:space="preserve">
     <value>Tipo di attuazione della mira con arma</value>
 
-
 ```
 
 </p></details>
 
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
 ---
+- ⚠️ IMPORTANTE: se viene rilasciata una nuova major (quando introducono un nuovo DLC), NON applicate la traduzione attuale, altrimenti alcune nuove stringhe non saranno presenti, e verranno mostrate in inglese all'interno del gioco (se tutto va bene).  
+- Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto (dove vedete "attualmente su base...").  
+- La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  
 
-⚠️ IMPORTANTE: se viene rilasciata una nuova major (quando introducono un nuovo DLC), NON applicate la traduzione attuale, altrimenti alcune nuove stringhe non saranno presenti, e verranno mostrate in inglese all'interno del gioco.  
-Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto (dove vedete "attualmente su base...").  
-
-La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  
-
-Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza.  
-
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
 ---
-
 I file della lingua di Space Engineers possono essere aperti con un editor di testo, se volete potete modificarne il contenuto voi stessi:  
-*cartella* -> "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\Data\Localization"  
-sono 3 file in totale (uno per cartella), ma quello nella cartella CoreTexts non serve, traduce le linee riguardo ai crash del gioco.
+-"SpaceEngineers\Content\Data\Localization" MyTexts.it.resx  
+-"SpaceEngineers\Content\Data\Localization\Common" MyCommonTexts.it.resx  
+-"SpaceEngineers\Content\Data\Localization\CoreTexts" MyCoreTexts.it.resx  
+sono 3 file in totale (uno per cartella), ma quello nella cartella CoreTexts non serve, traduce le linee riguardo ai crash del gioco.  
+
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
+---
+
+
+
+
+<!--  -->
+<!-- Useless code to use occasionally:
+
+img download button:
+[<img src="https://i.ibb.co/JxM2nh7/Donwload-button-png-LITE.png" width="175"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker/archive/refs/heads/main.zip)
+
+img empty:
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)

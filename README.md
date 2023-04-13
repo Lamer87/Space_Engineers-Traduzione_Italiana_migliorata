@@ -27,9 +27,12 @@
 ---
 
 Giusto qualche esempio delle migliorie (italiano del gioco a sinistra - corretto da me a destra):  
+
 *dal menù skin* : Ricicla la conferma dell'oggetto = Conferma il riciclo dell'oggetto  
 *dal blocco programmabile* : Corri = Esegui  
 *dal generatore di ossigeno* : Riempi bottiglie = Riempi bombole  
+
+Altre non sono delle migliorie, piuttosto degli aggiustamenti per far rientrare le parole nell'HUD o nella UI, per una migliore visibilità di tutto.
 
 <details><summary>Cliccate qui per la lista completa delle sostituzioni</summary><p>
 

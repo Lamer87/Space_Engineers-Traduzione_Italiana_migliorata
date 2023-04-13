@@ -277,20 +277,22 @@ MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
 </p></details>
 
 [<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
+
 ---
+
 - ⚠️ IMPORTANTE: se viene rilasciata una nuova major (quando introducono un nuovo DLC), NON applicate la traduzione attuale, altrimenti alcune nuove stringhe non saranno presenti, e verranno mostrate in inglese all'interno del gioco (se tutto va bene).  
-- Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto (dove vedete "attualmente su base...").  
+  - Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto (dove vedete "attualmente su base...").  
 - La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  
 
 [<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
 ---
+
 I file della lingua di Space Engineers possono essere aperti con un editor di testo, se volete potete modificarne il contenuto voi stessi:  
 -"SpaceEngineers\Content\Data\Localization" MyTexts.it.resx  
 -"SpaceEngineers\Content\Data\Localization\Common" MyCommonTexts.it.resx  
 -"SpaceEngineers\Content\Data\Localization\CoreTexts" MyCoreTexts.it.resx  
 sono 3 file in totale (uno per cartella), ma quello nella cartella CoreTexts non serve, traduce le linee riguardo ai crash del gioco.  
 
-[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
 ---
 
 

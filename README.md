@@ -7,9 +7,7 @@
 
 - Consiste in soli 2 file (su 3) relativi alla lingua italiana, non viene toccato nient'altro.  
 
-- Tutti i cambiamenti fatti fino ad ora sono stati fatti giocando alla 1.201 e pubblicati subito dopo l'uscita di Automatons,  
-  quindi per altre modifiche (soprattutto riguardanti eventuali svarioni di traduzione di quest'ultimo dlc) richiederanno tempo,  
-  ma voi potete sempre dare una mano!
+- Tutti i cambiamenti fatti fino ad ora sono stati fatti giocando alla 1.201 e pubblicati subito dopo l'uscita di Automatons, quindi per altre modifiche (soprattutto riguardanti eventuali svarioni di traduzione di quest'ultimo dlc) richiederanno tempo, ma voi potete sempre dare una mano!
 
 ---
 >💾 [Click qui per il download](https://github.com/Lamer87/Space_Engineers_DLC_unlocker/archive/refs/heads/main.zip)

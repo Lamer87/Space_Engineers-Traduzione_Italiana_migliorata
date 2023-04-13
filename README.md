@@ -1,5 +1,5 @@
 ## Space Engineers: Traduzione Italiana migliorata
-### attualmente su base `1.201` Most Wanted.
+### attualmente su base `1.202` Automatons.
 
 ---
 -Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco,  
@@ -15,7 +15,7 @@
 
   - Estraete la cartella **"Content"** nella cartella del gioco, sostituendo i file:  
 *dall'archivio* -> TraduzioneMigliorata/`Content`  
-*esempio cartella gioco* -> C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\ `Content`  
+*esempio cartella gioco* -> C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\  
 
   - E' incluso un backup, nel caso vogliate ripristinare la traduzione di default, senza dover fare un recheck di tutti i file da Steam:  
 *dall'archivio* -> Backup/`Content`  
@@ -26,6 +26,14 @@ Giusto qualche esempio delle migliorie (italiano del gioco a sinistra - corretto
 *dal menù skin* : Ricicla la conferma dell'oggetto = Conferma il riciclo dell'oggetto  
 *dal blocco programmabile* : Corri = Esegui  
 *dal generatore di ossigeno* : Riempi bottiglie = Riempi bombole  
+
+<details><summary>Cliccate qui per la lista completa delle sostituzioni</summary><p>
+
+```
+asd
+```
+
+</p></details>
 
 ---
 

@@ -3,7 +3,7 @@
 
 Durante il lockdown, non avendo niente da fare, ho passato 2 settimane a tradurre l'intero gioco in italiano, perchè all'epoca erano tradotte giusto poche cose del menù e nient'latro.  
 Pubblicai la traduzione qui su github ma, poco tempo dopo e col successivo rilascio di un DLC, la traduzione italiana venne completata dai programmatori (avranno mica preso spunto?).  
-Da una parte fui contento visto che finalmente avevano preso in considerazione la community italiana, ma poi mi resi conto che non era proprio perfetta.
+Fui contento del fatto che finalmente presero in considerazione la community italiana, ma poi mi resi conto che non era proprio perfetta.
 
 ---
 - Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco, garantendone la stessa immersività della versione in inglese.

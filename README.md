@@ -2,8 +2,8 @@
 ### Attualmente su base `1.202` Automatons 🤖
 
 Durante il lockdown, non avendo niente da fare, ho passato 2 settimane a tradurre l'intero gioco in italiano, perchè all'epoca erano tradotte giusto poche cose del menù e nient'latro.  
-Pubblicai la traduzione qui su github ma, poco tempo dopo e col successivo rilascio di un DLC, la traduzione italiana venne finalmente rilasciata (avranno mica preso spunto?).  
-Fui contento del fatto che finalmente presero in considerazione la community italiana, ma poi mi resi conto che non era proprio perfetta.
+Ho anche pubblicato la traduzione qui su github ma, poco tempo dopo e col successivo rilascio di un DLC, la traduzione italiana è stata finalmente rilasciata (avranno mica preso spunto?).  
+Ero contento del fatto che finalmente avevano preso in considerazione la community italiana, ma poi mi sono reso conto che non era proprio perfetta.
 
 ---
 - Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco, garantendone la stessa immersività della versione in inglese.

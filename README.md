@@ -1,11 +1,11 @@
 ## Space Engineers: Traduzione Italiana migliorata
-### attualmente su base `1.202` Automatons.
+### Attualmente su base `1.202` Automatons.
 
 ---
 -Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco,  
  garantendone la stessa immersività della versione in inglese.  
 
--Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.  
+-Consiste in soli 2 file (su 3) relativi alla lingua italiana, non viene toccato nient'altro.  
 
 ---
 

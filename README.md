@@ -8,9 +8,9 @@
 -Consiste in soli 2 file (su 3) relativi alla lingua italiana, non viene toccato nient'altro.  
 
 ---
->💾 [Click HERE to download](https://github.com/Lamer87/Space_Engineers_DLC_unlocker/archive/refs/heads/main.zip)
+>💾 [Click qui per il download](https://github.com/Lamer87/Space_Engineers_DLC_unlocker/archive/refs/heads/main.zip)
 
->💾 Or click the green **`Code`** button then **`Download ZIP`**
+>💾 O cliccate il tasto verde **`Code`** e poi su **`Download ZIP`**
 
 ---
 - 🕹️ ***Installazione***:  

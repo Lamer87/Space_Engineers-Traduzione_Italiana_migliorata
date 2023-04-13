@@ -8,10 +8,12 @@
 -Consiste in soli 2 file (su 3) relativi alla lingua italiana, non viene toccato nient'altro.  
 
 ---
+>💾 [Click HERE to download](https://github.com/Lamer87/Space_Engineers_DLC_unlocker/archive/refs/heads/main.zip)
 
-- ***Installazione***:  
+>💾 Or click the green **`Code`** button then **`Download ZIP`**
 
-  - Scaricate l'archivio cliccando sul tasto verde "Code" e poi su "Download ZIP"  
+---
+- 🕹️ ***Installazione***:  
 
   - Estraete la cartella **"Content"** nella cartella del gioco, sostituendo i file:  
 *dall'archivio* -> TraduzioneMigliorata/`Content`  
@@ -37,7 +39,7 @@ asd
 
 ---
 
-IMPORTANTE: se viene rilasciata una nuova major (quando introducono un nuovo DLC), NON applicate la traduzione attuale, altrimenti alcune nuove stringhe non saranno presenti, e verranno mostrate in inglese all'interno del gioco.  
+⚠️ IMPORTANTE: se viene rilasciata una nuova major (quando introducono un nuovo DLC), NON applicate la traduzione attuale, altrimenti alcune nuove stringhe non saranno presenti, e verranno mostrate in inglese all'interno del gioco.  
 Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto (dove vedete "attualmente su base...").  
 
 La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  

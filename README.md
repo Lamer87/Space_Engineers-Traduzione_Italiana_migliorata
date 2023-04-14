@@ -6,20 +6,11 @@ Ho anche pubblicato la traduzione qui su github ma, poco tempo dopo e col succes
 Ero contento del fatto che finalmente avevano preso in considerazione la community italiana, ma poi mi sono reso conto che non era proprio perfetta.
 
 ---
-- Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco, garantendone la stessa immersività della versione in inglese.
-
-- Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.
-
-- Tutti i cambiamenti fatti fino ad ora sono stati fatti giocando alla 1.201 e pubblicati subito dopo l'uscita della 1.202 Automatons, quindi altre modifiche riguardanti eventuali svarioni di traduzione di quest'ultimo dlc richiederanno tempo, ma voi potete sempre dare una mano!
-
-- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
-
----
->💾 [Click qui per il download](https://github.com/Lamer87/Space_Engineers_DLC_unlocker/archive/refs/heads/main.zip)
+>💾 [Click qui per il download](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/archive/refs/heads/main.zip)
 
 >💾 O cliccate il tasto verde **`Code`** e poi su **`Download ZIP`**
-
 ---
+
 - 🕹️ ***Installazione***:  
 
   - Estraete la cartella **"Content"** nella cartella del gioco, sostituendo i file:  
@@ -29,6 +20,17 @@ Ero contento del fatto che finalmente avevano preso in considerazione la communi
   - E' incluso un backup, nel caso vogliate ripristinare la traduzione di default, senza dover fare un recheck di tutti i file da Steam:  
 *dall'archivio* -> Backup/`Content` -> *cartella del gioco*  
 [<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
+
+---
+
+- Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco, garantendone la stessa immersività della versione in inglese.
+
+- Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.
+
+- Tutti i cambiamenti fatti fino ad ora sono stati fatti giocando alla 1.201 e pubblicati subito dopo l'uscita della 1.202 Automatons, quindi altre modifiche riguardanti eventuali svarioni di traduzione di quest'ultimo dlc richiederanno tempo, ma voi potete sempre dare una mano!
+
+- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
+
 ---
 
 Giusto qualche esempio delle migliorie ("italiano" del gioco a sinistra - corretto da me a destra):  
@@ -171,9 +173,6 @@ Puoi usare /F per chattare solo con la tua fazione oppure /G per globale.</value
 
   <data name="DisplayName_DLC_DecorativeBlocks" xml:space="preserve">
     <value>Blocchi decorativi 1</value>
-
-  <data name="DisplayName_TSS_Weather_Dust" xml:space="preserve">
-    <value>Sabbia</value>
 
   <data name="Description_DLC_DecorativeBlocks" xml:space="preserve">
     <value>*** Descrizione dei blocchi decorativi 1 DLC ***</value>

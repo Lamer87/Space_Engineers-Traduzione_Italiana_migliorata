@@ -30,7 +30,7 @@ Ero contento del fatto che finalmente avevano preso in considerazione la communi
 
 - Tutti i cambiamenti fatti fino ad ora sono stati fatti giocando alla 1.201 e pubblicati subito dopo l'uscita della 1.202 Automatons, quindi altre modifiche riguardanti eventuali svarioni di traduzione di quest'ultimo dlc richiederanno tempo, ma voi potete sempre dare una mano!
 
-- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
+- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle [discussioni](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/discussions) con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
 
 ---
 

@@ -1,5 +1,6 @@
 ## Space Engineers: Traduzione Italiana migliorata 🇮🇹
 ### Attualmente su base `1.202` Automatons 🤖
+[<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata)
 
 Durante il lockdown, non avendo niente da fare, ho passato 2 settimane a tradurre l'intero gioco in italiano, perchè all'epoca erano tradotte giusto poche cose del menù e nient'latro.  
 Ho anche pubblicato la traduzione qui su github ma, poco tempo dopo e col successivo rilascio di un DLC, la traduzione italiana è stata finalmente rilasciata (avranno mica preso spunto?).  
@@ -30,8 +31,6 @@ Ero contento del fatto che finalmente avevano preso in considerazione la communi
 - Tutti i cambiamenti fatti fino ad ora sono stati fatti giocando alla 1.201 e pubblicati subito dopo l'uscita della 1.202 Automatons, quindi altre modifiche riguardanti eventuali svarioni di traduzione di quest'ultimo dlc richiederanno tempo, ma voi potete sempre dare una mano!
 
 - Se avete dei suggerimenti sulla traduzione, scrivetemi nelle discussioni con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
-
-<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>
 
 ---
 

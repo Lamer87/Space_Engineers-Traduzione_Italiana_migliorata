@@ -3,7 +3,7 @@
 [<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 Durante il lockdown, non avendo niente da fare, ho passato 2 settimane a tradurre l'intero gioco in italiano, perchè all'epoca erano tradotte giusto poche cose del menù e nient'latro.  
-Ho anche pubblicato la traduzione qui su github ma, poco tempo dopo e col successivo rilascio di un DLC, la traduzione italiana è stata finalmente rilasciata (avranno mica preso spunto?).  
+Ho anche pubblicato la traduzione qui su github ma, poco tempo dopo e con l'arrivo di un nuovo DLC, la traduzione italiana è stata finalmente rilasciata (avranno mica preso spunto?).  
 Ero contento del fatto che finalmente avevano preso in considerazione la community italiana, ma poi mi sono reso conto che non era proprio perfetta.
 
 ---

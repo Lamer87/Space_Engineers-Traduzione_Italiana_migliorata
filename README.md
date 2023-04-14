@@ -1,6 +1,6 @@
 ## Space Engineers: Traduzione Italiana migliorata 🇮🇹
 ### Attualmente su base `1.202` Automatons 🤖
-[<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata)
+[<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 Durante il lockdown, non avendo niente da fare, ho passato 2 settimane a tradurre l'intero gioco in italiano, perchè all'epoca erano tradotte giusto poche cose del menù e nient'latro.  
 Ho anche pubblicato la traduzione qui su github ma, poco tempo dopo e col successivo rilascio di un DLC, la traduzione italiana è stata finalmente rilasciata (avranno mica preso spunto?).  
@@ -20,7 +20,7 @@ Ero contento del fatto che finalmente avevano preso in considerazione la communi
 
   - E' incluso un backup, nel caso vogliate ripristinare la traduzione di default, senza dover fare un recheck di tutti i file da Steam:  
 *dall'archivio* -> Backup/`Content` -> *cartella del gioco*  
-[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata)
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 ---
 
@@ -276,7 +276,7 @@ MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
 
 </p></details>
 
-[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 ---
 
@@ -284,7 +284,7 @@ MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
   - Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto (dove vedete "attualmente su base...").  
 - La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  
 
-[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers_DLC_unlocker#space-engineers-dlc-unlocker)
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 ---
 
 I file della lingua di Space Engineers possono essere aperti con un editor di testo, se volete potete modificarne il contenuto voi stessi:  
@@ -306,4 +306,4 @@ img download button:
 [<img src="https://i.ibb.co/JxM2nh7/Donwload-button-png-LITE.png" width="175"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/archive/refs/heads/main.zip)
 
 img empty:
-[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata)
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)

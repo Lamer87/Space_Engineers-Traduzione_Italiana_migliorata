@@ -40,7 +40,7 @@ Giusto qualche esempio delle migliorie ("italiano" del gioco a sinistra - corret
 *dal generatore di ossigeno* : Riempi bottiglie = Riempi bombole  
 *dal menù skin* : Ricicla la conferma dell'oggetto = Conferma il riciclo dell'oggetto  
 
-Altre non sono delle migliorie, piuttosto degli aggiustamenti per far rientrare le parole nell'HUD o nella UI, per una migliore visibilità in tutti i contesti.
+Oltre alle migliorie ci sono anche degli aggiustamenti per far rientrare le parole nell'HUD o nella UI, per una migliore visibilità in tutti i contesti.
 
 <details><summary>Cliccate qui per la lista completa dei cambiamenti (senza confronto con l'originale)</summary><p>
 

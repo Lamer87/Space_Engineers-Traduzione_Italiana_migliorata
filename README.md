@@ -294,6 +294,11 @@ I file della lingua di Space Engineers possono essere aperti con un editor di te
 Sono 3 file in totale (uno per cartella), ma quello nella cartella CoreTexts non serve, traduce solo le linee riguardo ai crash del gioco.  
 Per quanto riguarda la descrizione di alcuni degli scenari (menù nuova partita), andrebbero tradotti i file nelle cartelle di ognuno di essi, quindi non ne vale la pena.
 
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
+---
+- 📌 Se non volete pagare per i DLC, qui potete trovare il mio [DLC unlocker](https://github.com/Lamer87/Space-Engineers-DLC-unlocker)
+
+[<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 ---
 
 

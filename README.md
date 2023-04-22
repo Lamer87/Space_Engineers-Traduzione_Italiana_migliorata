@@ -292,7 +292,7 @@ I file della lingua di Space Engineers possono essere aperti con un editor di te
 -"SpaceEngineers\Content\Data\Localization\Common" MyCommonTexts.it.resx  
 -"SpaceEngineers\Content\Data\Localization\CoreTexts" MyCoreTexts.it.resx  
 Sono 3 file in totale (uno per cartella), ma quello nella cartella CoreTexts non serve, traduce solo le linee riguardo ai crash del gioco.  
-Per quanto riguarda la descrizione di alcuni degli scenari (menù nuova partita), andrebbero tradotti i file nelle cartelle di ognuno di essi, quindi non ne vale la pena.
+Per quanto riguarda la descrizione di alcuni degli scenari (nel menù nuova partita), andrebbero tradotti i file nelle cartelle degli scenari stessi, quindi vista la loro inutilità, non vale la pena tradurli.
 
 [<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 

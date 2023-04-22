@@ -7,6 +7,16 @@ Ho anche pubblicato la traduzione qui su github ma, poco tempo dopo e con l'arri
 Finalmente avevano preso in considerazione la community italiana, ma poi mi sono reso conto che la traduzione non era proprio perfetta, quindi ho pensato di apportare qualche miglioria partendo dalla stessa traduzione del gioco.
 
 ---
+
+- Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco, garantendone la stessa immersività della versione in inglese.
+
+- Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.
+
+- Tutti i cambiamenti fatti fino ad ora provengono dalla 1.201, poi riportati sui file aggiornati della 1.202 Automatons e pubblicati subito dopo l'uscita, quindi altre modifiche riguardanti eventuali svarioni di traduzione di quest'ultimo dlc richiederanno tempo, ma voi potete sempre dare una mano!
+
+- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle [discussioni](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/discussions) con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
+
+---
 >💾 [Click qui per il download](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/archive/refs/heads/main.zip)
 
 >💾 O cliccate il tasto verde **`Code`** e poi su **`Download ZIP`**
@@ -21,16 +31,6 @@ Finalmente avevano preso in considerazione la community italiana, ma poi mi sono
   - E' incluso un backup, nel caso vogliate ripristinare la traduzione di default, senza dover fare un recheck di tutti i file da Steam:  
 *dall'archivio* -> Backup/`Content` -> *cartella del gioco*  
 [<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
-
----
-
-- Lo scopo di questo progetto è quello di rendere più adeguata la traduzione in italiano del gioco, garantendone la stessa immersività della versione in inglese.
-
-- Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.
-
-- Tutti i cambiamenti fatti fino ad ora provengono dalla 1.201, poi riportati sui file aggiornati della 1.202 Automatons e pubblicati subito dopo l'uscita, quindi altre modifiche riguardanti eventuali svarioni di traduzione di quest'ultimo dlc richiederanno tempo, ma voi potete sempre dare una mano!
-
-- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle [discussioni](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/discussions) con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
 
 ---
 

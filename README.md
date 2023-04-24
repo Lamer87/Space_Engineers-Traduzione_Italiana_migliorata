@@ -17,7 +17,7 @@ Finalmente avevano preso in considerazione la community italiana, ma poi mi sono
 - Se avete dei suggerimenti sulla traduzione, scrivetemi nelle [discussioni](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/discussions) con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
 
 ---
->💾 [Click qui per il download](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/archive/refs/heads/main.zip), o cliccate il tasto verde **`Code`** e poi su **`Download ZIP`**
+>[💾 Click qui per il download](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/archive/refs/heads/main.zip), o cliccate il tasto verde **`Code`** e poi su **`Download ZIP`**
 ---
 
 - 🕹️ ***Installazione***:  

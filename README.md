@@ -288,9 +288,11 @@ MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
 ---
 
 I file della lingua di Space Engineers possono essere aperti con un editor di testo, se volete potete modificarne il contenuto voi stessi:  
+
 -"SpaceEngineers\Content\Data\Localization" MyTexts.it.resx ✔️  
 -"SpaceEngineers\Content\Data\Localization\Common" MyCommonTexts.it.resx ✔️  
 -"SpaceEngineers\Content\Data\Localization\CoreTexts" MyCoreTexts.it.resx ❌  
+
 Sono 3 file in totale (uno per cartella), ma quello nella cartella CoreTexts non serve, traduce solo le linee riguardo ai crash del gioco.  
 Per quanto riguarda la descrizione di alcuni degli scenari (nel menù nuova partita), andrebbero tradotti i file nelle cartelle degli scenari stessi, quindi vista la loro inutilità, non vale la pena tradurli.
 

@@ -24,7 +24,7 @@ Finalmente avevano preso in considerazione la community italiana, ma poi mi sono
 
 - 🕹️ ***Installazione***:  
 
-  - Estraete la cartella **"Content"** nella cartella del gioco, sostituendo i file:  
+  - Estraete la cartella **"Content"** nella cartella del gioco, sostituendo tranquillamente i file:  
 *dall'archivio* -> Space_Engineers-Traduzione_Italiana_migliorata-main \ `Content`  
 *esempio cartella gioco* -> `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\`  
 

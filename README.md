@@ -25,11 +25,11 @@ Finalmente avevano preso in considerazione la community italiana, ma poi mi sono
 - 🕹️ ***Installazione***:  
 
   - Estraete la cartella **"Content"** nella cartella del gioco, sostituendo i file:  
-*dall'archivio* -> Space_Engineers-Traduzione_Italiana_migliorata \ `Content`  
+*dall'archivio* -> Space_Engineers-Traduzione_Italiana_migliorata-main \ `Content`  
 *esempio cartella gioco* -> `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\`  
 
   - E' incluso un backup, nel caso vogliate ripristinare la traduzione di default, senza dover fare un recheck di tutti i file da Steam:  
-*dall'archivio* -> Backup/`Content` -> *cartella del gioco*  
+*dall'archivio* -> Space_Engineers-Traduzione_Italiana_migliorata-main\Backup \ `Content` -> *cartella del gioco*  
 [<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 ---

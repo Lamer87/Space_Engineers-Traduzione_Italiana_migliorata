@@ -16,7 +16,7 @@ Finalmente avevano preso in considerazione la community italiana, ma poi mi sono
 
 - Tutti i cambiamenti fatti fino ad ora sono aggiornati alla v1.203.6, ma potrebbero essere necessarie altre modifiche. Ovviamente siete liberissimi di dare una mano!
 
-- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle [discussioni](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/discussions) con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, così da trovarla e modificarla facilmente.
+- Se avete dei suggerimenti sulla traduzione, scrivetemi [qui nelle discussioni](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/discussions/1) con la parola o la frase **che usa il gioco** e quale dovrebbe essere quella corretta, così da poterla trovare e modificare facilmente.
 
 ---
 >[💾 Click qui per il download](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/archive/refs/heads/main.zip), o cliccate il tasto verde **`Code`** e poi su **`Download ZIP`**

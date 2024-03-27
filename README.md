@@ -1,5 +1,5 @@
 ## Space Engineers: Traduzione Italiana migliorata 🇮🇹
-### Attualmente su base `1.202` Automatons 🤖
+### Attualmente su base `1.203.6` - *Anniversary Pack* 🎂
 [<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 Durante il lockdown, non avendo niente da fare, ho passato 2 settimane a tradurre l'intero gioco in italiano, perchè all'epoca erano tradotte giusto poche righe del menù e nient'latro.  
@@ -12,9 +12,9 @@ Finalmente avevano preso in considerazione la community italiana, ma poi mi sono
 
 - Consiste in soli 2 file relativi alla lingua italiana, non viene toccato nient'altro.
 
-- Tutti i cambiamenti fatti fino ad ora provengono dalla 1.201, poi riportati sui file aggiornati della 1.202 Automatons e pubblicati subito dopo l'uscita, quindi altre modifiche riguardanti eventuali svarioni di traduzione di quest'ultimo dlc richiederanno tempo, ma voi potete sempre dare una mano!
+- Tutti i cambiamenti fatti fino ad ora sono aggiornati alla v1.203.6, ma potrebbero essere necessarie altre modifiche. Ovviamente siete liberissimi di dare una mano!
 
-- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle [discussioni](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/discussions) con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, magari specificando il contesto/menù di appartenenza e magari uno screeshot.
+- Se avete dei suggerimenti sulla traduzione, scrivetemi nelle [discussioni](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/discussions) con la parola o la frase che usa il gioco e quale dovrebbe essere quella corretta, così da trovarla e modificarla facilmente.
 
 ---
 >[💾 Click qui per il download](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata/archive/refs/heads/main.zip), o cliccate il tasto verde **`Code`** e poi su **`Download ZIP`**
@@ -23,8 +23,8 @@ Finalmente avevano preso in considerazione la community italiana, ma poi mi sono
 - 🕹️ ***Installazione***:  
 
   - Estraete la cartella **"Content"** nella cartella del gioco, sostituendo i file:  
-*dall'archivio* -> TraduzioneMigliorata/`Content`  
-*esempio cartella gioco* -> C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\  
+*dall'archivio* -> Space_Engineers-Traduzione_Italiana_migliorata \ `Content`  
+*esempio cartella gioco* -> `C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\`  
 
   - E' incluso un backup, nel caso vogliate ripristinare la traduzione di default, senza dover fare un recheck di tutti i file da Steam:  
 *dall'archivio* -> Backup/`Content` -> *cartella del gioco*  
@@ -32,7 +32,7 @@ Finalmente avevano preso in considerazione la community italiana, ma poi mi sono
 
 ---
 
-Giusto qualche esempio delle migliorie ("italiano" del gioco a sinistra - corretto da me a destra):  
+Giusto qualche esempio delle migliorie ("italiano del gioco" a sinistra - CORRETTO da me a destra):  
 
 *dal blocco programmabile* : Corri = Esegui  
 *dal generatore di ossigeno* : Riempi bottiglie = Riempi bombole  
@@ -62,7 +62,7 @@ MyTexts.it.resx (\SpaceEngineers\Content\Data\Localization)
     <value>Apri menu admin</value>
 
   <data name="Description_AngleGrinder" xml:space="preserve">
-    <value>Strumento per decostruzione e recupero. Tieni premuto {CONTROL:ABASE:PRIMARY_TOOL_ACTION} per smantellare. </value>
+    <value>Strumento per decostruzione e recupero. Tieni premuto {CONTROL:ABASE:PRIMARY_TOOL_ACTION} per smantellare.</value>
 
   <data name="Description_OxygenFarm" xml:space="preserve">
     <value>I generatori di ossigeno (fattorie idroponiche) producono piccole quantità di ossigeno quando sono a contatto con la luce del sole.
@@ -132,16 +132,16 @@ Puoi controllare manualmente le torrette per mirare con precisione agli obiettiv
     <value>Lo sapevi?
     SPAZIOVUOTO
     SPAZIOVUOTO
-La velocità del tuo jetpack può corrispondere alla velocità delle griglie vicine utilizzando i relativi smorzatori.</value>
+La velocità del tuo jetpack può adeguarsi alla velocità delle griglie vicine utilizzando i relativi smorzatori.</value>
 
   <data name="Hint01Text" xml:space="preserve">
     <value>Lo sapevi?
     SPAZIOVUOTO
     SPAZIOVUOTO
-Puoi usare /F per chattare solo con la tua fazione oppure /G per globale.</value>
+Puoi usare /F per chattare solo con la tua fazione oppure /G per la chat globale.</value>
 
   <data name="Quote29Text" xml:space="preserve">
-    <value>Un buono scienziato è una persona con idee originali. Un buon ingegnere è una persona che crea un progetto che funziona con meno idee originali possibili. Non ci sono prime donne nell'ingegneria.</value>
+    <value>Un buon scienziato è una persona con idee originali. Un buon ingegnere è una persona che crea un progetto che funziona con meno idee originali possibili. Non ci sono prime donne nell'ingegneria.</value>
 
   <data name="TerminalControlPanel_RunCode" xml:space="preserve">
     <value>Esegui</value>
@@ -149,7 +149,7 @@ Puoi usare /F per chattare solo con la tua fazione oppure /G per globale.</value
   <data name="TerminalControlPanel_RunCodeDefault" xml:space="preserve">
     <value>Esegui con il parametro di default</value>
 
-  <data name="TerminalControlPanel_Warhead_SafetyTooltip" xml:space="preserve">
+  <data name="TerminalControlPanel_Warhead_SafetyTooltip" xml:space="preserve"> ?????? what ??????
     <value>Quando non selezionata, la testata può essere detonata manualmente. Questo non influenza la detonazione automatica dopo il conto alla rovescia.</value>
 
   <data name="ToolTipJoinGameServerSearch_Search" xml:space="preserve">
@@ -162,7 +162,7 @@ Puoi usare /F per chattare solo con la tua fazione oppure /G per globale.</value
     <value>Applica configurazione mod</value>
 
   <data name="Description_FAQ_Grinding" xml:space="preserve">
-    <value>Puoi utilizzare una smerigliatrice per smantellare i blocchi. I componenti vengono recuperati e trasferiti nel tuo inventario durante la smerigliatura.  </value>
+    <value>Puoi utilizzare una Smerigliatrice per smantellare i blocchi. I componenti vengono recuperati e trasferiti nel tuo inventario durante la smerigliatura. </value>
 
   <data name="Description_FAQ_UnknownSignals" xml:space="preserve">
     <value>I segnali indicano le posizioni delle capsule dove puoi ottenere un bottino e skin in modalità di sopravvivenza. I segnali deboli sono visibili solo a te. Segnali più forti sono visibili a tutti sul server, ma possono portare a un bottino migliore. </value>
@@ -213,10 +213,16 @@ Puoi usare /F per chattare solo con la tua fazione oppure /G per globale.</value
     <value>Porta dell'hangar da guerra 2</value>
 
   <data name="DisplayName_Block_LargeReactorWarfare2" xml:space="preserve">
-    <value>Reattore da guerra grande</value>
+    <value>Reattore grande da guerra</value>
 
   <data name="DisplayName_Block_SmallReactorWarfare2" xml:space="preserve">
-    <value>Reattore da guerra piccolo</value>
+    <value>Reattore piccolo da guerra</value>
+
+  <data name="NotificationHintLockTarget" xml:space="preserve">
+    <value>{0} per agganciare il bersaglio</value>
+
+  <data name="NotificationHintUnlockTarget" xml:space="preserve">
+    <value>{0} per agganciare il bersaglio</value>
 
   <data name="DisplayName_Block_RocketLauncherWarfare2" xml:space="preserve">
     <value>Lanciarazzi da guerra</value>
@@ -245,12 +251,25 @@ Puoi usare /F per chattare solo con la tua fazione oppure /G per globale.</value
   <data name="Description_SmallRailgun" xml:space="preserve">
     <value>Alta portata, massima penetrazione, cadenza di fuoco molto bassa. Ha bisogno di caricarsi prima di ogni colpo. Utilizza sabot per cannone a rotaia piccolo.
 
+  <data name="BroadcastScreen_TakeControlButton_RemoteToolTip" xml:space="preserve">
+    <value>Controllo Remoto pronto</value>
 
+  <data name="DisplayName_Block_RemoteControl" xml:space="preserve">
+    <value>Controllo Remoto</value>
+
+  <data name="TerminalControlPanel_Cockpit_MainRemoteControl" xml:space="preserve">
+    <value>Controllo Remoto principale</value>
+
+  <data name="BroadcastScreen_RemoteControl" xml:space="preserve">
+    <value>   Controllo Remoto</value>
+
+---
+---
 
 MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
 
   <data name="MessageBoxTextAreYouSureYouWantToDeleteSave" xml:space="preserve">
-    <value>Sei sicuro do voler eliminare "{0}"?</value>
+    <value>Sei sicuro di voler eliminare "{0}"?</value>
 
   <data name="MessageBoxTextAreYouSureYouWantToDeleteMultipleSaves" xml:space="preserve">
     <value>Vuoi davvero eliminare i file di salvataggio?</value>
@@ -268,7 +287,7 @@ MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
     <value>Cambia il modo di mirare con l'arma</value>
 
   <data name="IronSightSwitch" xml:space="preserve">
-    <value>Tipo di attuazione della mira con arma</value>
+    <value>Tipo di attuazione della mira con l'arma</value>
 
 ```
 
@@ -278,8 +297,8 @@ MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
 
 ---
 
-- ⚠️ IMPORTANTE: se viene rilasciata una nuova major (quando introducono un nuovo DLC), NON applicate la traduzione attuale, altrimenti alcune nuove stringhe non saranno presenti, e verranno mostrate in inglese all'interno del gioco (se tutto va bene).  
-  - Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto (dove vedete "attualmente su base...").  
+- ⚠️ IMPORTANTE: se viene rilasciata una nuova major (quando introducono un nuovo DLC), NON riapplicate la traduzione attuale, altrimenti alcune nuove stringhe non saranno presenti e verranno mostrate in inglese all'interno del gioco.  
+  - Basta aspettare l'aggiornamento della traduzione migliorata, tenendo d'occhio la versione qui in alto.  
 - La traduzione è in continua evoluzione, verrà aggiornata man mano che si trovano parti da tradurre meglio.  
 
 [<img src="https://i.ibb.co/h7hwpbn/Empty-png.png" width="1"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)

@@ -1,6 +1,6 @@
 ## Space Engineers: Traduzione Italiana migliorata 🇮🇹
-### Versione gioco: `1.203.6` - *Anniversary Pack* 🎂
-#### Versione della traduzione: `0.8`
+#### Versione gioco: `1.203.6` - *Anniversary Pack* 🎂
+### Versione della traduzione: `0.8`
 [<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 Perchè?  

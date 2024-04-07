@@ -1,6 +1,6 @@
 ## Space Engineers: Traduzione Italiana migliorata 🇮🇹
 #### Versione gioco: `1.203.6` - *Anniversary Pack* 🎂
-### Versione della traduzione: `0.8`
+### Versione della traduzione: `0.9`
 [<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 Perchè?  
@@ -62,6 +62,18 @@ MyTexts.it.resx (\SpaceEngineers\Content\Data\Localization)
 
   <data name="ControlMenuItemLabel_ShowAdminMenu" xml:space="preserve">
     <value>Apri menu admin</value>
+
+  <data name="OpenAdminScreen" xml:space="preserve">
+    <value>Apri schermata admin</value>
+
+  <data name="ScreenDebugAdminMenu_AdminTools" xml:space="preserve">
+    <value>Strumenti admin</value>
+
+  <data name="ScreenDebugAdminMenu_ModeSelect" xml:space="preserve">
+    <value>Schermo admin</value>
+
+  <data name="RadialMenu_Label_AdminOnly" xml:space="preserve">
+    <value>Disponibile solo per gli admin.</value>
 
   <data name="Description_AngleGrinder" xml:space="preserve">
     <value>Strumento per decostruzione e recupero. Tieni premuto {CONTROL:ABASE:PRIMARY_TOOL_ACTION} per smantellare.</value>
@@ -264,6 +276,192 @@ Puoi usare /F per chattare solo con la tua fazione oppure /G per la chat globale
 
   <data name="BroadcastScreen_RemoteControl" xml:space="preserve">
     <value>   Controllo Remoto</value>
+
+  <data name="Beacon_SafeZone_Info_Disabled" xml:space="preserve">
+    <value>Disattivata</value>
+  </data>
+  <data name="Beacon_SafeZone_Info_Enabled" xml:space="preserve">
+    <value>Attivata</value>
+  </data>
+
+  <data name="Terminal_Trading_Tooltip" xml:space="preserve">
+    <value>La modalità di compravendita permette la compravendita attraverso il blocco del negozio.
+Inoltre impedisce la visibilità dei blocchi di altre reti, il trasferimento di energia elettrica e di oggetti.
+Non può essere cambiata mentre il connettore è collegato.</value>
+
+  <data name="DisplayName_GridAutomation" xml:space="preserve">
+    <value>Automazione griglia</value>
+
+  <data name="BlockPropertyItem_TargetOptions_CycleSubsystems" xml:space="preserve">
+    <value>Cicla Sottosistemi</value>
+
+  <data name="CycleHUD" xml:space="preserve">
+    <value>Cicla HUD</value>
+
+  <data name="DisplayName_Block_ArmorSide" xml:space="preserve">
+    <value>Porta blindata spigolo</value>
+
+  <data name="DisplayName_Block_WindowWall" xml:space="preserve">
+    <value>Muro con finestra</value>
+
+  <data name="DisplayName_Block_WindowWallLeft" xml:space="preserve">
+    <value>Muro con finestra sinistro</value>
+
+  <data name="DisplayName_Block_WindowWallRight" xml:space="preserve">
+    <value>Muro con finestra destro</value>
+
+  <data name="DisplayName_Block_GratedCatwalk" xml:space="preserve">
+    <value>Passerella con Parapetto</value>
+
+  <data name="DisplayName_Block_GratedCatwalkCorner" xml:space="preserve">
+    <value>Passerella con Parapetto ad angolo</value>
+
+  <data name="DisplayName_Block_GratedCatwalkStraight" xml:space="preserve">
+    <value>Passerella con Parapetti paralleli</value>
+
+  <data name="DisplayName_Block_GratedCatwalkWall" xml:space="preserve">
+    <value>Passerella con Parapetto laterale</value>
+
+  <data name="DisplayName_Block_GratedStairs" xml:space="preserve">
+    <value>Scale con Parapetti</value>
+
+  <data name="DisplayName_Block_GratedHalfStairs" xml:space="preserve">
+    <value>Mezze scale con Parapetti</value>
+
+  <data name="DisplayName_Block_GatlingTurret" xml:space="preserve">
+    <value>Torretta Gatling</value>
+
+  <data name="DisplayName_Block_OxygenTank" xml:space="preserve">
+    <value>Serbatoio dell'ossigeno</value>
+
+  <data name="BlockPropertyDescription_Stockpile" xml:space="preserve">
+    <value>Le cisterne che accumulano scorte non verranno scaricate dai Condotti di ventilazione</value>
+
+  <data name="Oxygen_Filled" xml:space="preserve">
+    <value>Riempimento: {0}% ({1}L/{2}L)</value>
+
+  <data name="O2High" xml:space="preserve">
+    <value>Abbondante</value>
+
+  <data name="O2Low" xml:space="preserve">
+    <value>Rarefatto</value>
+
+  <data name="O2None" xml:space="preserve">
+    <value>Assente</value>
+
+  <data name="DisplayName_Block_WindTurbineReskin" xml:space="preserve">
+    <value>Turbina eolica bipala</value>
+
+  <data name="Turbine_WindClearance" xml:space="preserve">
+    <value>Spazio al vento: {0}</value>
+
+  <data name="Turbine_WindClearanceGood" xml:space="preserve">
+    <value>Buono</value>
+
+  <data name="Oxygen_Disabled" xml:space="preserve">
+    <value>Ossigeno o camera stagna disabilitati nelle impostazioni del mondo!</value>
+
+  <data name="TemperatureWarm" xml:space="preserve">
+    <value>Mite</value>
+
+  <data name="TemperatureInferno" xml:space="preserve">
+    <value>Infernale</value>
+
+  <data name="DisplayName_TSS_Weather_Dust" xml:space="preserve">
+    <value>Sabbia</value>
+
+  <data name="DisplayName_TSS_Weather_Marsstorm" xml:space="preserve">
+    <value>Tempesta di sabbia</value>
+
+  <data name="DisplayName_TSS_Weather_ElectricStorm" xml:space="preserve">
+    <value>Tempesta di fulmini</value>
+
+  <data name="Dust" xml:space="preserve">
+    <value>Sabbia</value>
+
+  <data name="SnowLight" xml:space="preserve">
+    <value>Nevicata leggera</value>
+
+  <data name="SnowHeavy" xml:space="preserve">
+    <value>Nevicata forte</value>
+
+  <data name="ElectricStorm" xml:space="preserve">
+    <value>Tempesta di fulmini</value>
+
+  <data name="SandStormHeavy" xml:space="preserve">
+    <value>Tempesta di sabbia forte</value>
+
+  <data name="MarsSnow" xml:space="preserve">
+    <value>Neve marziana</value>
+
+  <data name="MarsStormHeavy" xml:space="preserve">
+    <value>Tempesta marziana pesante</value>
+
+  <data name="MarsStormLight" xml:space="preserve">
+    <value>Tempesta marziana leggera</value>
+
+  <data name="ScreenDebugAdminMenu_Weather_Generate" xml:space="preserve">
+    <value>Genera Meteo casuale</value>
+
+  <data name="ScreenDebugAdminMenu_Weather_Generate_Tooltip" xml:space="preserve">
+    <value>Genera un Meteo casuale utilizzando il sistema meteorologico del pianeta</value>
+
+  <data name="BlockPropertyTitle_ExhaustEffect" xml:space="preserve">
+    <value>Effetto scarico</value>
+
+  <data name="Description_WeaponRack" xml:space="preserve">
+    <value>La Rastrelliera conserva armi e munizioni per un accesso rapido.</value>
+
+  <data name="DisplayName_Block_WeaponRack" xml:space="preserve">
+    <value>Rastrelliera</value>
+
+  <data name="Description_DLC_Warfare2" xml:space="preserve">
+    <value>Warfare II.</value>
+
+  <data name="DisplayName_DLC_Warfare2" xml:space="preserve">
+    <value>Warfare II.</value>
+
+  <data name="Description_DLC_Warfare1" xml:space="preserve">
+    <value>Warfare I.</value>
+
+  <data name="DisplayName_DLC_Warfare1" xml:space="preserve">
+    <value>Warfare I.</value>
+
+  <data name="NotificationPlayerDemoted_Moderator" xml:space="preserve">
+    <value>Sei stato declassato a Osservatore</value>
+
+  <data name="NotificationPlayerDemoted_None" xml:space="preserve">
+    <value>Sei stato declassato a Giocatore</value>
+
+  <data name="NotificationPlayerDemoted_Scripter" xml:space="preserve">
+    <value>Sei stato declassato a Creatore script</value>
+
+  <data name="NotificationPlayerDemoted_SpaceMaster" xml:space="preserve">
+    <value>Sei stato declassato a Master spaziale</value>
+
+  <data name="NotificationMeteorInbound" xml:space="preserve">
+    <value>Sciame di meteore in avvicinamento.</value>
+
+  <data name="DisplayName_Block_AirVentFan" xml:space="preserve">
+    <value>Condotto a ventola</value>
+
+  <data name="DisplayName_Block_AirVentFanFull" xml:space="preserve">
+    <value>Condotto a ventola, intero</value>
+
+  <data name="DisplayName_DLC_AIUpdateDLC" xml:space="preserve">
+    <value>Automatons</value>
+
+  <data name="DisplayName_DLC_Automatons" xml:space="preserve">
+    <value>Automatons</value>
+
+  <data name="Description_DLC_Automatons" xml:space="preserve">
+    <value>Automatons</value>
+
+  <data name="Oxygen_NotPressurized" xml:space="preserve">
+    <value>Pressurizzazione: stanza non stagna</value>
+
+  <data name="Oxygen_Pressure" xml:space="preserve">
+    <value>Pressurizzazione: </value>
 
 ---
 ---

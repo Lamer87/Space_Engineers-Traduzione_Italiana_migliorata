@@ -448,6 +448,21 @@ Non può essere cambiata mentre il connettore è collegato.</value>
   <data name="DisplayName_Block_AirVentFanFull" xml:space="preserve">
     <value>Condotto a ventola, intero</value>
 
+  <data name="Description_FAQ_AirTightnessPressure" xml:space="preserve">
+    <value>Una stanza deve essere a tenuta stagna prima di poter essere riempita di ossigeno da un Condotto di ventilazione. Assicurati che non vi siano fori esposti allo spazio e che tutte le porte siano chiuse. </value>
+
+  <data name="DisplayName_Block_HeatVentWarfare2" xml:space="preserve">
+    <value>Condotto a luce</value>
+
+  <data name="Description_HeatVent" xml:space="preserve">
+    <value>I Condotti di ventilazione a luce si aprono ed emettono luce quando aumenta il consumo energetico della rete.</value>
+
+  <data name="DisplayName_Block_HeatVent" xml:space="preserve">
+    <value>Condotto a luce</value>
+
+  <data name="DisplayName_Block_AirVentFull" xml:space="preserve">
+    <value>Condotto di Ventilazione, intero</value>
+
   <data name="DisplayName_DLC_AIUpdateDLC" xml:space="preserve">
     <value>Automatons</value>
 

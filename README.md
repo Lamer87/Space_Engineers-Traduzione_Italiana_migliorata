@@ -236,7 +236,7 @@ Puoi usare /F per chattare solo con la tua fazione oppure /G per la chat globale
     <value>{0} per agganciare il bersaglio</value>
 
   <data name="NotificationHintUnlockTarget" xml:space="preserve">
-    <value>{0} per agganciare il bersaglio</value>
+    <value>{0} per sganciare il bersaglio</value>
 
   <data name="DisplayName_Block_RocketLauncherWarfare2" xml:space="preserve">
     <value>Lanciarazzi da guerra</value>

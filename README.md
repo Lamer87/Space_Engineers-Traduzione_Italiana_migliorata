@@ -1,6 +1,6 @@
 ## Space Engineers: Traduzione Italiana migliorata 🇮🇹
 #### Versione gioco: `1.203.6` - *Anniversary Pack* 🎂
-### Versione della traduzione: `0.9`
+### Versione della traduzione: `1.0`
 [<img src="https://i.ibb.co/FVrhPxC/se-ita-flag.jpg" width="200"/>](https://github.com/Lamer87/Space_Engineers-Traduzione_Italiana_migliorata#space-engineers-traduzione-italiana-migliorata-)
 
 Perchè?  
@@ -45,7 +45,7 @@ Oltre alle migliorie ci sono anche degli aggiustamenti per far rientrare le paro
 <details><summary>Cliccate qui per la lista completa dei cambiamenti (senza confronto con l'originale)</summary><p>
 
 ```
-MyTexts.it.resx (\SpaceEngineers\Content\Data\Localization)
+MyTexts.it.resx (\SpaceEngineers\Content\Data\Localization):
 
 
   <data name="AGravity" xml:space="preserve">
@@ -311,22 +311,73 @@ Non può essere cambiata mentre il connettore è collegato.</value>
     <value>Muro con finestra destro</value>
 
   <data name="DisplayName_Block_GratedCatwalk" xml:space="preserve">
-    <value>Passerella con Parapetto</value>
+    <value>Passerella a grata con Parapetto</value>
 
   <data name="DisplayName_Block_GratedCatwalkCorner" xml:space="preserve">
-    <value>Passerella con Parapetto ad angolo</value>
+    <value>Passerella a grata con Parapetto ad angolo</value>
 
   <data name="DisplayName_Block_GratedCatwalkStraight" xml:space="preserve">
-    <value>Passerella con Parapetti paralleli</value>
+    <value>Passerella a grata con Parapetti paralleli</value>
 
   <data name="DisplayName_Block_GratedCatwalkWall" xml:space="preserve">
-    <value>Passerella con Parapetto laterale</value>
+    <value>Passerella a grata con Parapetto laterale</value>
+
+  <data name="DisplayName_Block_GratedCatwalkRailingEnd" xml:space="preserve">
+    <value>Fine passerella a grata con parapetti</value>
+
+  <data name="DisplayName_Block_GratedCatwalkRailingHalfLeft" xml:space="preserve">
+    <value>Fine passerella a grata con apertura destra</value>
+
+  <data name="DisplayName_Block_GratedCatwalkRailingHalfRight" xml:space="preserve">
+    <value>Fine passerella a grata con apertura sinistra</value>
+
+  <data name="DisplayName_Block_HalfGratedCatwalk" xml:space="preserve">
+    <value>Mezza passerella a grata</value>
+
+  <data name="DisplayName_Block_HalfGratedCatwalkCenterRailing" xml:space="preserve">
+    <value>Mezza passerella a grata con parapetto centrale</value>
+
+  <data name="DisplayName_Block_HalfGratedCatwalkRailing" xml:space="preserve">
+    <value>Mezza passerella a grata con parapetti paralleli</value>
+
+  <data name="DisplayName_Block_HalfGratedCatwalkOuterRailing" xml:space="preserve">
+    <value>Mezza passerella a grata con parapetto laterale</value>
+
+  <data name="DisplayName_Block_SteelCatwalk" xml:space="preserve">
+    <value>Passerella con parapetto laterale</value>
+
+  <data name="DisplayName_Block_SteelCatwalkCorner" xml:space="preserve">
+    <value>Passerella con parapetti ad angolo</value>
+
+  <data name="DisplayName_Block_SteelCatwalkPlate" xml:space="preserve">
+    <value>Passerella</value>
+
+  <data name="DisplayName_Block_SteelCatwalkTwoSides" xml:space="preserve">
+    <value>Passerella con parapetti paralleli</value>
+
+  <data name="DisplayName_Block_Passage3Wall" xml:space="preserve">
+    <value>Passaggio 3, lato</value>
 
   <data name="DisplayName_Block_GratedStairs" xml:space="preserve">
-    <value>Scale con Parapetti</value>
+    <value>Scale con parapetti</value>
 
   <data name="DisplayName_Block_GratedHalfStairs" xml:space="preserve">
-    <value>Mezze scale con Parapetti</value>
+    <value>Mezze scale a destra con parapetti</value>
+
+  <data name="DisplayName_Block_GratedHalfStairsMirrored" xml:space="preserve">
+    <value>Mezze scale a sinistra con parapetti</value>
+
+  <data name="DisplayName_Block_ArmorPanelRoundCornerHeavy" xml:space="preserve">
+    <value>Pannello Armatura pesante, rotondo ad angolo</value>
+
+  <data name="DisplayName_Block_ArmorPanelRoundCornerLight" xml:space="preserve">
+    <value>Pannello Armatura leggera, rotondo ad angolo</value>
+
+  <data name="DisplayName_Block_ArmorPanelRoundHeavy" xml:space="preserve">
+    <value>Pannello Armatura pesante, rotondo</value>
+
+  <data name="DisplayName_Block_ArmorPanelRoundLight" xml:space="preserve">
+    <value>Pannello Armatura leggera, rotondo</value>
 
   <data name="DisplayName_Block_GatlingTurret" xml:space="preserve">
     <value>Torretta Gatling</value>
@@ -478,10 +529,54 @@ Non può essere cambiata mentre il connettore è collegato.</value>
   <data name="Oxygen_Pressure" xml:space="preserve">
     <value>Pressurizzazione: </value>
 
+  <data name="NotificationParkingSuccessful" xml:space="preserve">
+    <value>Parcheggiato</value>
+
+  <data name="NotificationParkingReleased" xml:space="preserve">
+    <value>Parcheggio abbandonato</value>
+
+  <data name="BlockPropertyTitle_Parking_EnableParkingTooltip" xml:space="preserve">
+    <value>Attivato: si blocca/sblocca quando utilizzato il comando di Parcheggio {CONTROL:LANDING_GEAR} della nave a cui appartiene.
+Disattivato: il blocco non tiene conto del comando di Parcheggio della nave a cui appartiene.</value>
+
+  <data name="DisplayName_PlanetaryLander" xml:space="preserve">
+    <value>Lander planetario</value>
+
+  <data name="ToolTipOptionsGame_BuildingMode" xml:space="preserve">
+    <value>Selezionare la modalità di posizionamento dei blocchi 
+
+  <data name="ReputationBat_Tooltip_Friendly" xml:space="preserve">
+    <value>Relazione amichevole. Da {0} a {1} di reputazione.
+In grado di interagire. Offerte bonus:
+sconto acquisti dal {2}% al {4}%, bonus vendita dal {3}% al {5}%.
+
+  <data name="SmallGrids" xml:space="preserve">
+    <value>Griglie Piccole</value>
+
+  <data name="LargeGrids" xml:space="preserve">
+    <value>Griglie Grandi</value>
+
+  <data name="BlockPropertyDescription_MotorBrakingTorque" xml:space="preserve">
+    <value>Forza di frenata del blocco {0}:
+quanto velocemente si fermerà (applicata quando viene spento)</value>
+
+  <data name="Hint03Text" xml:space="preserve">
+    <value>Puoi guidare i veicoli da una torretta se la Cabina di pilotaggio è impostata come "Cabina principale".
+Tieni premuto Alt per controllare la rotazione col mouse.</value>
+
+  <data name="HintGamepadOnly12Text" xml:space="preserve">
+    <value>Lo sapevi? 
+Puoi guidare i veicoli da una torretta se la Cabina di pilotaggio è impostata come "Cabina principale".
+Tieni premuto {0} per controllare la rotazione.</value>
+
+
+
 ---
+------
 ---
 
-MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
+MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common):
+
 
   <data name="MessageBoxTextAreYouSureYouWantToDeleteSave" xml:space="preserve">
     <value>Sei sicuro di voler eliminare "{0}"?</value>
@@ -503,6 +598,22 @@ MyCommonTexts.it.resx (\SpaceEngineers\Content\Data\Localization\Common)
 
   <data name="IronSightSwitch" xml:space="preserve">
     <value>Tipo di attuazione della mira con l'arma</value>
+
+  <data name="ScreenDebugAdminMenu_CycleObjects" xml:space="preserve">
+    <value>Cicla Oggetti</value>
+
+  <data name="NotificationCubePlacementModeChanged" xml:space="preserve">
+    <value>Modalità di posizionamento: {0}</value>
+
+  <data name="NotificationCubePlacementMode_FreePlacement" xml:space="preserve">
+    <value>Libera</value>
+
+  <data name="VoxelHands_Description" xml:space="preserve">
+    <value>- Tieni premuto {0} per aggiungere materiale agli asteroidi o ai pianeti.
+- Tieni premuto {1} per rimuovere il materiale. 
+    SPAZIOVUOTO
+- Usa {2}, {3} per passare da un tipo di materiale all'altro.</value>
+
 
 ```
 

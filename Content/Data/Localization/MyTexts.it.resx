@@ -16458,7 +16458,7 @@ Tieni premuto {CONTROL:GUI:LEFT_BUTTON} + {CONTROL:GUI:RIGHT_BUTTON} per rimuove
     <value>{0} per agganciare il bersaglio</value>
   </data>
   <data name="NotificationHintUnlockTarget" xml:space="preserve">
-    <value>{0} per agganciare il bersaglio</value>
+    <value>{0} per sganciare il bersaglio</value>
   </data>
   <data name="DisplayName_Block_RocketLauncherWarfare2" xml:space="preserve">
     <value>Lanciarazzi da guerra</value>

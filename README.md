@@ -6,7 +6,7 @@
 Perchè?  
 Durante il lockdown, non avendo niente da fare, ho passato 2 settimane a tradurre l'intero gioco in italiano, perchè all'epoca erano tradotte giusto poche righe del menù e nient'latro.  
 Ho anche pubblicato la traduzione qui su github ma, poco tempo dopo e con l'arrivo di un nuovo DLC, la traduzione italiana è stata finalmente rilasciata.  
-Finalmente avevano preso in considerazione la community italiana, ma poi mi sono reso conto che la traduzione faceva cagare (a dir poco), quindi ho pensato di apportare qualche miglioria.
+Finalmente avevano preso in considerazione la community italiana, ma poi mi sono reso conto che la traduzione faceva cagare (a dir poco), quindi ho pensato di apportare "qualche" miglioramento.
 
 ---
 
